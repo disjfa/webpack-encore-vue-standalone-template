@@ -15,7 +15,7 @@
             Twitter
         </a>
         <br>
-        <a href="http://vuejs-templates.github.io/webpack/" target="_blank">
+        <a href="https://github.com/disjfa/webpack-encore-vue-standalone-template" target="_blank">
             Docs for This Template
         </a>
         <h2>Ecosystem</h2>

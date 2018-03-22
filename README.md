@@ -3,8 +3,8 @@
 > A boilerplate using [webpack-encore](http://symfony.com/doc/current/frontend.html), 
 [vuejs](https://vuejs.org) and
 [vue-router](https://router.vuejs.org/en/). 
-
-It also adds a smitten of gulp to generate icons, to get you started on that pwa.
+>
+> It also adds a smitten of gulp to generate icons, to get you started on that pwa.
 
 ### Usage
 
