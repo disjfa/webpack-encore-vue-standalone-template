@@ -1,0 +1,28 @@
+{
+  "name": "webpack-encore-standalone",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d template/public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/disjfa/webpack-encore-vue-standalone-template.git"
+  },
+  "keywords": [
+    "webpack-encore",
+    "vue",
+    "vuejs",
+    "vue-template"
+  ],
+  "author": "disjfa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/disjfa/webpack-encore-vue-standalone-template/issues"
+  },
+  "homepage": "https://github.com/disjfa/webpack-encore-vue-standalone-template#readme",
+  "dependencies": {
+    "gh-pages": "^1.1.0"
+  }
+}
